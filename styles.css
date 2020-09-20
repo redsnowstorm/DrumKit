@@ -65,7 +65,7 @@ background-image: url('images/kick.png');
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #424955;
   font-size: 6rem;
   font-family: 'Rock Salt', cursive;
   line-height: 1;
@@ -85,6 +85,6 @@ background-image: url('images/kick.png');
   width:200px;
 }
 .drum:hover{
-  border: 10px solid #ffd782;
+  border: 10px solid #818794;
   text-shadow: 5px 8px 5px  #000;
 }
